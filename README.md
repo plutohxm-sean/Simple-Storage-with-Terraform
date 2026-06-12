@@ -1,2 +1,2 @@
 # Simple-Storage-with-Terraform
-just practice
+comming soon
